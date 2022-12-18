@@ -27,7 +27,8 @@ def get_filters():
 
     print('-'*40)
     return city, month, day
-
+def info ()
+ print(" my name is shahad " )
 
 def load_data(city, month, day):
     """
